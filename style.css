@@ -1,0 +1,15 @@
+/* Geral */
+
+* {
+    padding: 0px;
+    margin: 0;
+    font-family: Helvetica;
+    color: #333;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: none;
+    background-position: center;
+    background-size: cover;
+}
